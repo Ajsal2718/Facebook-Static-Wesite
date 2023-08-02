@@ -117,5 +117,7 @@ body{
     font-size: 15px;
     width: 120px;
 }
+@media(max-width:240px){
+    }
 
 
