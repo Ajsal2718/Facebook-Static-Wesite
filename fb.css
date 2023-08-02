@@ -1,0 +1,121 @@
+.header{
+    background:#3b5998;
+    width: 100%;
+    height: 80px;
+}
+body{
+    margin: 0;
+    font-family: Helvetica neue,Helvetica,Arial,sans-serif;
+}
+.logo{
+    width: 50%;
+    float: left;
+    padding-top: 40px;
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.logo-text{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 30px;
+    color: #ffff;
+    font-family: Helvetica neue,Helvetica,Arial,sans-serif;
+    margin-left: 170px;
+}
+.login-label{
+    color: #ffff;
+    font-size: 12px;
+}
+.login-controls{
+    margin-left: 115px;
+}
+.login{
+    padding-top: 10px;
+}
+.forgotten{
+    
+    font-size: 11px;
+    text-decoration: none;
+    color: #9cb4d8;
+
+}
+.sub-btn{
+    background: #4267b2;
+    color: #ffff;
+    height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background:#3b5998;   
+}
+.left-section{
+    width:30%;
+    float: left;
+    padding-left: 130px;
+    padding-top: 53px;
+}
+.right-section{
+    width:30%;
+    float: left;
+    padding-left: 270px;
+
+}
+.main-body{
+    background: #D3D8E8;
+    width: 100%;
+    height:600px;
+}
+.image{
+    width: 350px;
+}
+.para{
+    font-weight: bold;
+    font-size:15px;
+}
+.All{
+    color:gray;
+    font-size: 15px;
+    font-weight:bold;
+}
+.para2{
+    font-size: 11px;
+    width: 267px;
+}
+.Sing{
+    background:green;
+    color: #ffff;
+    height: 30px;
+    border-color:black;
+    cursor: pointer;
+    padding-left: 10px;
+    width: 100px;
+    font-weight: bold;
+    font-size: 17px;
+}
+.Sing:hover{
+    background:rgb(20, 104, 20);
+}
+.last{
+    padding-top: 20px;
+}.terms{
+    text-decoration: none;
+}.create{
+    text-decoration: none;
+    color: #3b5998;
+    font-weight: bold;
+    font-size: 20px;
+}
+.signup-field{
+    margin-top: 5px;
+    width: 253px;
+    font-size: 16px;
+}
+.fname{
+    font-size: 15px;
+    width: 120px;
+}
+
+
